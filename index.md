@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+<html lang="en"><head>
+  <meta charset="UTF-8">
+  <title>PanterFN</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css"><link rel="stylesheet" href="./style.css">
 
-You can use the [editor on GitHub](https://github.com/PantherFN/pantherfnsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<style type="text/css"></style></head>
+<body>
+<header>
+  <nav>
+    <h2><a href="/" id="logo">PantherFN</a></h2>
+    <button class="nav-button fa fa-bars"></button>
+    <div>
+      <ul>
+        <button class="exit-menu fa fa-times"></button>
+        <li><a href="/" class="active">home</a></li>
+        <li><a href="/download.html">download</a></li>
+      </ul>
+    </div>
+  </nav>
+  <div class="center">
+    <h1>PantherFN</h1>
+	<br> <!-- didnt work lol-->
+    <h2>Welcome to pantherfn</h2>
+    <p>Made by Avatar Aang,Vinzy and zinx
+      Welcome Sam Patry The Rapper
+    </p>
+    <p>pantherfndev@gmail.com</p>
+  </div>
+</header>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<!-- partial -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.6.2/rellax.js"></script><script src="../js/script.js"></script>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PantherFN/pantherfnsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body></html>
